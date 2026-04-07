@@ -1,0 +1,13 @@
+[LAB0] ENV CHECK OK
+{
+  "timestamp_utc": "2026-04-07T00:51:56.485092Z",
+  "python": "3.10.20",
+  "platform": "macOS-15.7.5-arm64-arm-64bit",
+  "numpy": "1.26.4",
+  "pandas": "2.3.3",
+  "sklearn": "1.7.2",
+  "transformers": "5.5.0",
+  "datasets": "4.8.4",
+  "evaluate": "0.4.6",
+  "vn_lib": "underthesea"
+}
